@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 1.2em 0;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.data {
+    padding: 20px;
+    background-color: rgba(157, 157, 157, 0.218);
+    border-radius: 8px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    margin: 10px;
+    font-size: 1.5em;
+}
+
+.data p {
+    padding: 5px;
+}
+
+#details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}

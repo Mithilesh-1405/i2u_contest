@@ -1,0 +1,326 @@
+[
+    {
+        "Name": "Veteran Shark Tank Applications Open",
+        "website": "https://veteransharktank.com/",
+        "date": "Dec 9th, to kick off Army/Navy Football Week, Applications traditionally open in July",
+        "location": "CYTO/PHL in Philadelphia, PA"
+    },
+    {
+        "Name": "South x Southwest (SXSW) Conference Applications Open",
+        "website": "https://www.sxsw.com/conference/startups/",
+        "date": "Mar 8-11, 2025, Applications for Panels and Showcases, and pitch applications traditionally open in July",
+        "location": "Austin, TX"
+    },
+    {
+        "Name": "SA Tech Fuel Pitch Competition Applications Open",
+        "website": "https://satechbloc.com/tech-fuel/",
+        "date": "Typically early October, Applications typically open in August/September",
+        "location": "San Antonio, TX"
+    },
+    {
+        "Name": "TFX Capital Annual Veteran Startup Showcase Pitch Competition",
+        "website": "https://tfxcap.com/",
+        "date": "Traditionally September/October",
+        "location": "Charlotte, NC"
+    },
+    {
+        "Name": "LG Nova Mission for the Future Pitch Competition Application",
+        "website": "https://www.lgnova.com/",
+        "date": "Apps traditionally run Sep-October, winners traditionally announced at CES in January",
+        "location": "Las Vegas, NV"
+    },
+    {
+        "Name": "CultureCon",
+        "website": "https://www.culturecon.theccnyc.com/",
+        "date": "05/10/2024 to 06/10/2024",
+        "location": "Traditionally Los Angeles, CA"
+    },
+    {
+        "Name": "Content Marketing World",
+        "website": "https://www.contentmarketingworld.com/",
+        "date": "21/10/2024 to 23/10/2024",
+        "location": "San Diego Convention Center, San Diego, CA"
+    },
+    {
+        "Name": "TechCrunch Disrupt Conference",
+        "website": "https://techcrunch.com/events/tc-disrupt-2024/",
+        "date": "28/10/2024 to 30/10/2024",
+        "location": "San Francisco, CA"
+    },
+    {
+        "Name": "Business Beyond the Battlefield Conference",
+        "website": "https://bbbc.uta.edu/",
+        "date": "31/10/2024 to 02/11/2024",
+        "location": "Arlington, TX"
+    },
+    {
+        "Name": "Startup Mountain Summit",
+        "website": "https://startupmountainsummit.com/",
+        "date": "Traditionally Late October",
+        "location": "Johnson City, Tennessee"
+    },
+    {
+        "Name": "SNVCC VetFest",
+        "website": "https://snvcc.regfox.com/snvcc-vetfest",
+        "date": "Traditionally late October",
+        "location": "Traditionally the lawn at downtown Summerlin, NV (western Las Vegas)"
+    },
+    {
+        "Name": "Tech Up For Women West Coast Conference Application",
+        "website": "https://techupforwomen.com/tech-up-sandiego/",
+        "date": "Typically early March, event registration typically opens October",
+        "location": "San Diego, CA"
+    },
+    {
+        "Name": "Society of American Military Engineers (SAME) Small Business Conference",
+        "website": "https://www.samesbc.org/",
+        "date": "20/11/2024 to 22/11/2024",
+        "location": "New Orleans, LA, Ernest N. Morial Convention Center"
+    },
+    {
+        "Name": "Military Influencer Conference (MIC)",
+        "website": "https://militaryinfluencer.com/",
+        "date": "29/09/2024 to 03/10/2024",
+        "location": "Signia by Hilton, Atlanta, GA"
+    },
+    {
+        "Name": "Tech Up For Women NYC Conference",
+        "website": "https://techupforwomen.com/event-details/",
+        "date": "11/12/24",
+        "location": "NYC, NY, Clinton Mercantile Event Hall"
+    },
+    {
+        "Name": "8th Annual Veterans in Business (VIB) National Conference",
+        "website": "https://www.vibnetwork.org/",
+        "date": "Typically mid November, (Registration typically opens in May)",
+        "location": "San Diego, CA"
+    },
+    {
+        "Name": "Veteran Shark Tank",
+        "website": "https://veteransharktank.com/",
+        "date": "Dec 9th, to kick off Army/Navy Football Week, Applications traditionally open in July",
+        "location": "Traditionally CYTO/PHL in Philadelphia, PA"
+    },
+    {
+        "Name": "New England Venture Summit",
+        "website": "https://youngstartup.com/events/nevs23",
+        "date": "Typically mid Dec",
+        "location": "Typically Boston Dedham, MA"
+    },
+    {
+        "Name": "Affiliate Summit West (ASW) Conference",
+        "website": "https://www.affiliatesummit.com/west?",
+        "date": "03/02/2025 to 05/02/2025",
+        "location": "Caesar’s Forum, Las Vegas, NV"
+    },
+    {
+        "Name": "SubSummit Pitch Competition Application",
+        "website": "https://subsummit.com/pitch-competition/",
+        "date": "Event is traditionally mid June, app deadline traditionally late Jan",
+        "location": "Traditionally Dallas, TX"
+    },
+    {
+        "Name": "FedEx Small Business Pitch Competition Application",
+        "website": "https://www.fedex.com/en-us/small-business/grant-contest.html",
+        "date": "Apps traditionally open Jan-Feb, winners usually announced in May",
+        "location": "Virtual via pitch video"
+    },
+    {
+        "Name": "11th Rice Business/Jones Graduate School of Business Veterans Business Battle Pitch Competition Application",
+        "website": "https://business.rice.edu/veterans-business-battle",
+        "date": "Traditionally mid April (applications traditionally close mid Feb)",
+        "location": "Rice University, Houston, TX"
+    },
+    {
+        "Name": "Milken-Penn GSE Education Business Plan Competition Application",
+        "website": "https://www.educationcompetition.org/competition-details",
+        "date": "Applications traditionally open late Jan, semi-finalists traditionally announced in May, finalists in September, Pitch Competition in October",
+        "location": "Traditionally Philadelphia, PA"
+    },
+    {
+        "Name": "MilVet Startups Conference",
+        "website": "https://www.milvetstartups.com/",
+        "date": "05/02/2025 to 06/02/2025",
+        "location": "San Francisco, CA, Marines’ Memorial Club"
+    },
+    {
+        "Name": "DistribuTech International Conference",
+        "website": "https://www.distributech.com/welcome",
+        "date": "24/03/2025 to 27/03/2025",
+        "location": "Dallas, TX, Kay Bailey Hutchinson Convention Center"
+    },
+    {
+        "Name": "FedEx Small Business Pitch Competition Application",
+        "website": "https://www.fedex.com/en-us/small-business/grant-contest.html",
+        "date": "Apps traditionally open Jan-Feb, winners usually announced in May",
+        "location": "Virtual via pitch video"
+    },
+    {
+        "Name": "Arch Grants Pitch Competition Application",
+        "website": "https://archgrants.org/competition/",
+        "date": "Typically Aug, Applications typically open Jan-Mar",
+        "location": "St Louis, MO"
+    },
+    {
+        "Name": "Tech Up For Women West Coast Conference",
+        "website": "https://techupforwomen.com/tech-up-sandiego/",
+        "date": "Traditionally early March",
+        "location": "San Diego, CA"
+    },
+    {
+        "Name": "South x Southwest (SXSW) Conference",
+        "website": "https://www.sxsw.com/conference/startups/",
+        "date": "Mar 8-11, 2025, Applications for Panels and Showcases, and pitch applications traditionally open in July",
+        "location": "Austin, TX"
+    },
+    {
+        "Name": "Adobe Summit Conference",
+        "website": "https://summit.adobe.com/na/",
+        "date": "Typically late Mach",
+        "location": "Las Vegas, NV"
+    },
+    {
+        "Name": "Veteran EDGE Conference",
+        "website": "https://ivmf.syracuse.edu/programs/entrepreneurship/growth/veteran-edge/",
+        "date": "Typically late March",
+        "location": "Typically Dallas, TX"
+    },
+    {
+        "Name": "VetsinTech Invasion",
+        "website": "https://events.vetsintech.co/invasion2024/",
+        "date": "Typically late Mar",
+        "location": "Virtual"
+    },
+    {
+        "Name": "Harrisburg Multicultural Small Business Lab Pitch Competition",
+        "website": "https://www3.mtb.com/harrisburglab",
+        "date": "Applications open typically in Apr, Program runs May-June",
+        "location": "Harrisburg, PA"
+    },
+    {
+        "Name": "Startup Grind Global Conference",
+        "website": "https://startupgrind.tech/conference/",
+        "date": "Traditionally late April",
+        "location": "Silicon Valley, CA"
+    },
+    {
+        "Name": "TechCrunch Early Stage Conference",
+        "website": "https://techcrunch.com/events/",
+        "date": "Traditionally late April",
+        "location": "Traditionally Boston, MA"
+    },
+    {
+        "Name": "11th Rice Business/Jones Graduate School of Business Veterans Business Battle Pitch Competition Application",
+        "website": " https://business.rice.edu/veterans-business-battle",
+        "date": "Traditionally mid April (applications traditionally close mid Feb)",
+        "location": "Rice University, Houston, TX"
+    },
+    {
+        "Name": "Milken-Penn GSE Education Business Plan Competition",
+        "website": "https://www.educationcompetition.org/competition-details",
+        "date": "Applications traditionally open late Jan, semi-finalists traditionally announced in May, finalists in September, Pitch Competition in October",
+        "location": "Traditionally Philadelphia, PA"
+    },
+    {
+        "Name": "Startup Legal Essentials to Secure Fundraising and Investment",
+        "website": "https://www.eventbrite.co.uk/e/startup-legal-essentials-to-secure-fundraising-and-investment-tickets-1004029127147",
+        "date": "10/8/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Building Strong Founding Teams in Tech Startups: Expert Panel Discussion",
+        "website": "https://www.eventbrite.co.uk/e/building-strong-founding-teams-in-tech-startups-expert-panel-discussion-tickets-1000012884457",
+        "date": "10/8/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Entrepreneurs guide to Co-Founders, Startup Teams, Advisors, Mentors & NEDs",
+        "website": "https://www.eventbrite.co.uk/e/entrepreneurs-guide-to-co-founders-startup-teams-advisors-mentors-neds-tickets-1004044011667",
+        "date": "10/10/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Founding Team Networking Meetup for Startup Entrepreneurs & Investors",
+        "website": "https://www.eventbrite.co.uk/e/founding-team-networking-meetup-for-startup-entrepreneurs-investors-tickets-1033613986257",
+        "date": "10/10/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Digital Health for Founders, Entrepreneurs, CTOs, and Developers",
+        "website": "https://www.eventbrite.co.uk/e/digital-health-for-founders-entrepreneurs-ctos-and-developers-tickets-980298187267",
+        "date": "10/15/24",
+        "location": "UKAT London Clinic\n30 Weymouth Street London W1G 7BS United Kingdom\nShow map"
+    },
+    {
+        "Name": "Speed Pitching for FinTech StartUp Founders to Angel & VC Investors",
+        "website": "https://www.eventbrite.co.uk/e/speed-pitching-for-fintech-startup-founders-to-angel-vc-investors-tickets-1033611418577",
+        "date": "10/16/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Scaling Your MVP: Tech Foundersâ€™ Guide to Feedback, Pivots & Iterations",
+        "website": "https://www.eventbrite.co.uk/e/scaling-your-mvp-tech-founders-guide-to-feedback-pivots-iterations-tickets-1004044643557",
+        "date": "10/17/24",
+        "location": "88 Kingsway\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Advisor, Mentor & NED Networking for Tech Startup Founders & Entrepreneurs",
+        "website": "https://www.eventbrite.co.uk/e/advisor-mentor-ned-networking-for-tech-startup-founders-entrepreneurs-tickets-1028868783227",
+        "date": "10/17/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Tech Startup Fundraising & Investment , VC & Angel Landscape in the UK",
+        "website": "https://www.eventbrite.co.uk/e/tech-startup-fundraising-investment-vc-angel-landscape-in-the-uk-tickets-1026914106737",
+        "date": "10/22/24",
+        "location": "80 Basinghall St\n80 Basinghall Street London EC2V 5AR United Kingdom\nShow map"
+    },
+    {
+        "Name": "Tech Startup Pitch Practice with Fundraising Experts, Angel Investors / VCs",
+        "website": "https://www.eventbrite.co.uk/e/tech-startup-pitch-practice-with-fundraising-experts-angel-investors-vcs-tickets-1035094705127",
+        "date": "10/24/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Tech StartUp Ecosystem Partners Fair for Entrepreneurs & Investors",
+        "website": "https://www.eventbrite.co.uk/e/tech-startup-ecosystem-partners-fair-for-entrepreneurs-investors-tickets-990459429817",
+        "date": "10/24/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "London Tech Founders StartUp Pitch Competition with Angel Investors & VCs",
+        "website": "https://www.eventbrite.co.uk/e/london-tech-founders-startup-pitch-competition-with-angel-investors-vcs-tickets-1020561094707",
+        "date": "10/30/24",
+        "location": "Home Grown | Private Members' Club London\n44 Great Cumberland Place London W1H 7BS United Kingdom\nShow map"
+    },
+    {
+        "Name": "Fundraising & Investment Due Diligence Rooms for Tech Startup Entrepreneurs",
+        "website": "https://www.eventbrite.co.uk/e/fundraising-investment-due-diligence-rooms-for-tech-startup-entrepreneurs-tickets-950849094237",
+        "date": "11/21/24",
+        "location": "Entrepreneurs Collective\n88 Kingsway London WC2B 6AA United Kingdom\nShow map"
+    },
+    {
+        "Name": "Startup worldcup Dubai",
+        "website": "https://www.startupworldcup.io/dubai-regional",
+        "date": "10/11/24",
+        "location": "Dubai"
+    },
+    {
+        "Name": "Electraverse Sparks Startup Challenge",
+        "website": "https://www.f6s.com/electraverse-sparks-startup-challenge/about",
+        "date": "22/02/2025 to 26/02/2025",
+        "location": "Mumbai, India"
+    },
+    {
+        "Name": "FETC Pitchfest 2025",
+        "website": "https://www.f6s.com/2025-fetc-pitchfest-application/about",
+        "date": "14/01/2025 to 16/01/2025",
+        "location": "9899 International Dr, Orlando, FL 32819, USA"
+    },
+    {
+        "Name": "Pitch Mayhem Competition",
+        "website": "https://www.f6s.com/pitch-mayhem-competition/about",
+        "date": "19/11/2024 to 20/11/2024",
+        "location": "Las Vegas, US"
+    }
+]
