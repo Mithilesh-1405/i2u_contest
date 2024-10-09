@@ -322,5 +322,95 @@
         "website": "https://www.f6s.com/pitch-mayhem-competition/about",
         "date": "19/11/2024 to 20/11/2024",
         "location": "Las Vegas, US"
+    },
+    {
+        "Name": "Singapore week of of innovation and technoloy",
+        "website": "https://www.switchsg.org/",
+        "date": "28/10/2024 to 30/10/2024",
+        "location": "Marina Bay sands, singapore"
+    },
+    {
+        "Name": "StrictlyVC NYC",
+        "website": "https://techcrunch.com/events/strictlyvc-nyc/",
+        "date": "11/13/24",
+        "location": "New York, NY"
+    },
+    {
+        "Name": "StrictlyVC San Francisco",
+        "website": "https://techcrunch.com/events/strictlyvc-san-francisco/",
+        "date": "12/4/24",
+        "location": "San Francisco, California"
+    },
+    {
+        "Name": "21BY72 Startup Summit 2024",
+        "website": "https://www.21by72.com/",
+        "date": "14/06/2025 to 15/06/2025",
+        "location": "Avadh Utopia, Surat, Gujurat, India"
+    },
+    {
+        "Name": "Entrepreneur India 2025",
+        "website": "https://www.entrepreneurindia.com/",
+        "date": "Aug-25",
+        "location": "Bharat Mandapam, New Delhi, India"
+    },
+    {
+        "Name": "Startup Hub Expo 2025",
+        "website": "https://www.startuphubexpo.com/",
+        "date": "19/03/2025 to 21/03/2025",
+        "location": "Bharat Mandapam, New Delhi, India"
+    },
+    {
+        "Name": "Founders' Retreat 2024 Goa",
+        "website": "https://www.globalstartups.club/event-details-registration/founders-retreat-2024-goa-2",
+        "date": "11/15/24",
+        "location": "Goa"
+    },
+    {
+        "Name": "Global Startup Summit 2024 | Chennai",
+        "website": "https://www.globalstartups.club/event-details-registration/global-startup-summit-2024-chennai",
+        "date": "12/7/24",
+        "location": "Chennai"
+    },
+    {
+        "Name": "Global Startup Summit 2025 | Mumbai",
+        "website": "https://www.globalstartups.club/event-details-registration/global-startup-summit-2025-mumbai",
+        "date": "2/1/24",
+        "location": "IRA By Orchid | Mumbai"
+    },
+    {
+        "Name": "Global Startup Summit 2025 | Bengaluru",
+        "website": "https://www.globalstartups.club/event-details-registration/global-startup-summit-2025-bengaluru",
+        "date": "5/17/24",
+        "location": "Royal Orchid Bengaluru"
+    },
+    {
+        "Name": "Global Startup Summit 2025 | Delhi NCR",
+        "website": "https://www.globalstartups.club/event-details-registration/global-startup-summit-2025-delhi-ncr",
+        "date": "7/27/24",
+        "location": "Radisson Hotel Gurugram"
+    },
+    {
+        "Name": "Startup Mahakumbh",
+        "website": "https://startupmahakumbh.co.in/",
+        "date": "TBD (2025)",
+        "location": "TBD"
+    },
+    {
+        "Name": "Stationary Energy and Storage India 2025",
+        "website": "https://indiaesa.info/events/ongoing-upcoming-events/stationary-energy-storage-india-sesi-2025",
+        "date": "15/04/2025 to 16/04/2025",
+        "location": "New Delhi, India"
+    },
+    {
+        "Name": "Global D2c Summit : India's Premier D2c Event",
+        "website": "https://allevents.in/new%20delhi/global-d2c-summit-indias-premier-d2c-event/80003561515410",
+        "date": "1/12/25",
+        "location": "India International centre, New Delhi"
+    },
+    {
+        "Name": "Nasscom Future Forge",
+        "website": "https://nasscom.in/futureforge/",
+        "date": "16/10/2024 to 17/10/2024",
+        "location": "Bangalore"
     }
 ]
