@@ -4,36 +4,122 @@
     padding: 0;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
 h1 {
     margin: 1.2em 0;
-
+    text-align: center;
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.data {
+    max-width: 1300px;
+    margin: 0 auto;
     padding: 20px;
-    background-color: rgba(157, 157, 157, 0.218);
-    border-radius: 8px;
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    margin: 10px;
-    font-size: 1.5em;
-}
-
-.data p {
-    padding: 5px;
 }
 
 #details {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    max-width: 1300px;
     width: 100%;
-    margin: 0 auto;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f9f9f9;
+    table-layout: fixed;
+}
+
+thead {
+    background-color: #333;
+    color: white;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+    width: 25%; /* Equal width for all columns */
+    word-wrap: break-word;
+}
+
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.location-container {
+    position: relative;
+    width: 100%;
+    padding-top: 75%; /* 4:3 aspect ratio */
+    overflow: hidden;
+}
+
+.location-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.location-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 8px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    tr {
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+    }
+
+    td {
+        border: none;
+        position: relative;
+        padding-left: 50%;
+        width: 100%; /* Full width on mobile */
+    }
+
+    td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        font-weight: bold;
+    }
+
+    .location-container {
+        padding-top: 56.25%; /* 16:9 aspect ratio for mobile */
+    }
 }
