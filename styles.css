@@ -224,10 +224,6 @@ ul {
         flex-wrap: nowrap;
     }
 
-    form {
-        min-height: 23em;
-    }
-
     .image {
         width: 100%;
     }
@@ -255,5 +251,9 @@ ul {
 
     .box {
         width: 100%;
+    }
+
+    .formCont {
+        min-height: 36em;
     }
 }
