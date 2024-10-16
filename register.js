@@ -1,8 +1,8 @@
-import features_data from '../Data/features_data.json' with {type: 'json'};
-import advantages_data from '../Data/advantages_data.json' with {type: 'json'};;
-import additional_features from '../Data/additional_features.json' with {type: 'json'};;
-import subscribers from '../Data/subscribers.json' with {type: 'json'};;
-import value from '../Data/value_propositions.json' with {type: 'json'};;
+import features_data from './features_data.json' with {type: 'json'};
+import advantages_data from './advantages_data.json' with {type: 'json'};;
+import additional_features from './additional_features.json' with {type: 'json'};;
+import subscribers from './subscribers.json' with {type: 'json'};;
+import value from './value_propositions.json' with {type: 'json'};;
 
 var features_div = document.getElementById('feature_points');
 var advantages_div = document.getElementById('advantages_points');
