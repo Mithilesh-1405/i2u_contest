@@ -1,10 +1,6 @@
 import details from './contest_details.json' with {type: 'json'};
 import imageUrl from './imageUrl.json' with {type: 'json'};
-
-
 const imageData = []
-
-
 function loadJson() {
     var detailDiv = document.getElementById('details')
     const detailHTML = `

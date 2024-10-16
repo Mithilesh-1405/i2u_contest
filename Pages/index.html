@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registeration</title>
+    <link rel="stylesheet" href="../Styles/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="cont2">
+            <div class="logo_title">
+                <h1 class="title">i2u.ai</h1>
+                <h3 class="tagline">Ideas to Unicorns through AI!</>
+            </div>
+            <div class="form">
+                <div class="image">
+                    <img src="../images/logo.jpg" alt="">
+                </div>
+                <div class="formCont">
+                    <h1 class="headings">Pay and Subscribe</h1>
+                    <form action="../Pages/Signup.html">
+                        <div class="input_container">
+                            <input type="text" placeholder="Enter your Name">
+                        </div>
+                        <div class="input_container">
+                            <input type="text" placeholder="Enter your Email">
+                        </div>
+                        <div class="input_container">
+                            <select id="subscription" name="subscription">
+                                <option value="Subs">Select Subscription Type</option>
+                                <option value="Influencer">Influencer</option>
+                                <option value="Mentor">Mentors Basic Annual Subscription</option>
+                                <option value="Startup">Startups Basic Annual Subscription</option>
+                            </select>
+                        </div>
+                        <div class="chkbox">
+                            <input type="checkbox" name="checkbox">
+                            <label for="checkbox"> I agree to comply with the <a
+                                    href="https://i2u.ai/TermsNConditions/"><span>terms and conditions</span></a>and
+                                <a href="https://i2u.ai/PrivacyPolicy/"><span>privacy policy</span></a>
+                                of the
+                                company</label>
+                        </div>
+                        <div class="btn">
+                            <button type="submit">Pay with Razorpay</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="Content">
+            <div class="heading">
+                <h1 class="headings">Features, Advantages, and Benefits for Our Subscribers</h1>
+            </div>
+            <div class="features box">
+                <p class="subheading">Core Features</p>
+                <div id="feature_points">
+                </div>
+            </div>
+
+            <div class="advantages box">
+                <p class="subheading">Advantages</p>
+                <div id="advantages_points">
+                </div>
+            </div>
+
+            <div class="additional-features box">
+                <p class="subheading">Additional Features</p>
+                <div id="additional_features_points">
+                </div>
+            </div>
+
+            <div class="subscribers box">
+                <p class="subheading">Subscribers</p>
+                <div id="subscribers_points">
+                </div>
+            </div>
+
+            <div class="value-propositions box">
+                <p class="subheading">Value Propositions</p>
+                <div id="value_propositions_points">
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script type="module" src="../Scripts/register.js"></script>
+</body>
+
+</html>
